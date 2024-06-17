@@ -1,0 +1,11 @@
+*.suo
+/PdfInfoTool/obj
+/PdfInfoTool/bin
+/SafeRapidPdf/obj
+/SafeRapidPdf/bin
+/SafeRapidPdf.UnitTests/bin
+/SafeRapidPdf.UnitTests/obj
+/TestData/
+*.psess
+*.vsp
+/.vs/
